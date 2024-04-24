@@ -31,7 +31,7 @@
 
 ```
 git clone https://github.com/m5d3v/foundry-fund-me
-cd foundry-fund-me-f23
+cd foundry-fund-me
 forge build
 ```
 
