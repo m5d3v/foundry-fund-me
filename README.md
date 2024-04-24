@@ -30,7 +30,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
+git clone https://github.com/m5d3v/foundry-fund-me
 cd foundry-fund-me-f23
 forge build
 ```
